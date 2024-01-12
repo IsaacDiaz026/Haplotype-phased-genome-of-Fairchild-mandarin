@@ -187,7 +187,7 @@ ATAC_results <- read.delim("ATAC_results.txt")
 
 H3K4me3_results <- read.delim("/bigdata/seymourlab/idiaz026/Results/Fairchild/ASE_calling/GeneiASE_outputs/H3K4me3_results.txt")
 
-H3K36me3_results <- read.delim("
+H3K36me3_results <- read.delim("H3K36me3_results.txt")
 H3K56ac_results <- read.delim("H3K56ac_results.txt")
 
 H3K27me3_results <- read.delim("H3K27me3_results.txt")
